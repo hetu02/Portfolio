@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const submitButton = document.querySelector('.sub-btn button');
     
     submitButton.addEventListener('click', function(e) {
+        console.log("in submit button");
+        
         e.preventDefault();
         
         // Get form values

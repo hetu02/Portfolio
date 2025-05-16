@@ -45,44 +45,12 @@ function loadProjectDetails(projectId) {
         "<strong>Scalable deployment</strong> architecture ready for production traffic 🌍",
       ],
     },
-    // "aroha-agency": {
-    //   title: "Aroha Agency Website",
-    //   description:
-    //     "Created a modern, responsive agency website with dynamic content management and smooth animations using React, Tailwind CSS, and Strapi CMS.",
-    //   mainImage: "assets/images/portfolio/derivedged.jpg",
-    //   challengeImage: "assets/images/gallery/cha1.png",
-    //   challengeTitle: "The Challenge",
-    //   challengeDescription:
-    //     "⚙️ The agency needed a flexible, distinctive web presence that would showcase their creative work while providing easy content updates.",
-    //   challengePoints: [
-    //     "Creating a visually impressive yet performant website.",
-    //     "Building an intuitive content management system.",
-    //     "Ensuring responsive design across all devices.",
-    //   ],
-    //   solutionImage: "assets/images/gallery/cha2.png",
-    //   solutionTitle: "The Solution",
-    //   solutionDescription:
-    //     "🚀 Developed a dynamic React-based frontend with Tailwind CSS for styling and integrated Strapi headless CMS for content management.",
-    //   solutionPoints: [
-    //     "Implemented smooth scroll animations and transitions for engaging UX 🎨.",
-    //     "Created a custom admin dashboard for easy content updates 🔄.",
-    //     "Optimized assets and code for fast loading on all devices 📱.",
-    //   ],
-    //   resultImage: "assets/images/gallery/cha3.png",
-    //   resultTitle: "Project Result",
-    //   resultDescription:
-    //     "🌟 Delivered a stunning website that effectively showcases the agency's work while providing them complete control over their content.",
-    //   resultPoints: [
-    //     "<strong>40% increase in engagement</strong> with portfolio items ⚡",
-    //     "<strong>75% reduction</strong> in content update time compared to previous system 📈",
-    //     "<strong>99/100 PageSpeed score</strong> on mobile and desktop 🚀",
-    //   ],
-    // },
+
     onlySpell: {
       title: "OnlySpell Website",
       description:
-        "I designed a *Next.js-based platform that offers a **magic-inspired branding experience* for businesses, helping them craft their identity and attract the right audience through stunning visuals and deep audience analysis. Our goal is to create a *masterpiece brand* for each client that resonates with their audience and positions them as industry authorities. Whether you're already successful or striving for more, our team of design wizards blends creative strategies with *target audience insights*, unlocking your brand's potential and ensuring your business stands out and succeeds on a larger scale.  ",
-      mainImage: "assets/images/portfolio/onlyspell-logo.webp",
+        "I designed a Next.js-based platform that offers a magic-inspired branding experience for businesses, helping them craft their identity and attract the right audience through stunning visuals and deep audience analysis. Our goal is to create a masterpiece brand for each client that resonates with their audience and positions them as industry authorities. Whether you're already successful or striving for more, our team of design wizards blends creative strategies with target audience insights, unlocking your brand's potential and ensuring your business stands out and succeeds on a larger scale.",
+      mainImage: "assets/images/portfolio/onlyspell.jpg",
       challengeImage: "assets/images/gallery/cha44.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
@@ -95,7 +63,7 @@ function loadProjectDetails(projectId) {
       solutionImage: "assets/images/gallery/cha55.jpg",
       solutionTitle: "The Solution",
       solutionDescription:
-        "✨ Developed a Next.js-powered platform that delivers a magic-inspired branding experience tailored to each business’s audience and mission.",
+        "✨ Developed a Next.js-powered platform that delivers a magic-inspired branding experience tailored to each business's audience and mission.",
       solutionPoints: [
         "Crafted immersive UI/UX to capture users' imagination and trust 🧙‍♂️",
         "Integrated audience analysis tools to guide brand voice, visuals, and positioning 📊",
@@ -115,8 +83,8 @@ function loadProjectDetails(projectId) {
     tktby: {
       title: "Tktby – Ticket Booking Platform",
       description:
-        "Redesigned a complex enterprise dashboard with a focus on user experience, accessibility, and data visualization using Figma and React.",
-      mainImage: "assets/images/portfolio/tktby.png",
+        "Developed a dynamic ticket booking platform similar to BookMyShow, featuring OTP verification via Twilio. Implemented both REST and GraphQL APIs for flexible backend communication. Focused on responsive UI development using ShadCN UI and managed state efficiently with Redux and TanStack.",
+      mainImage: "assets/images/portfolio/tktby.jpg",
       challengeImage: "assets/images/gallery/cha444.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
@@ -148,9 +116,9 @@ function loadProjectDetails(projectId) {
     infiction: {
       title: "InFiction Web Platform",
       description:
-        "Created an interactive timeline of design history with rich media integration using Vue.js and a custom CMS.",
-      mainImage: "assets/images/portfolio/infiction.jpg",
-      challengeImage: "assets/images/gallery/cha1.png",
+        "Developed a platform for film producers and writers to submit, review, and rate scripts. Designed the UI/UX, built backend APIs, and integrated Stripe for secure payments. Deployed on AWS to enable a fully functional marketplace for script collaboration and monetization.",
+      mainImage: "assets/images/portfolio/infiction_1.jpg",
+      challengeImage: "assets/images/gallery/cha777.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
         "🎬 The film industry lacks a centralized, digital-first platform where writers can showcase scripts and producers can easily discover, review, and purchase them. Traditional workflows are slow, unstructured, and opaque.",
@@ -159,17 +127,17 @@ function loadProjectDetails(projectId) {
         "No transparent rating or feedback mechanism 🌐",
         "Payment and licensing workflows were manual and insecure 💳",
       ],
-      solutionImage: "assets/images/gallery/cha2.png",
+      solutionImage: "assets/images/gallery/cha888.jpg",
       solutionTitle: "The Solution",
       solutionDescription:
         "🛠️ Developed InFiction, a one-stop digital platform connecting writers and producers.",
       solutionPoints: [
         "Designed an intuitive UI/UX for seamless user journeys 🎨",
         "Built robust REST APIs for script uploads, reviews, and ratings 📡",
-        "Integrated Stripe for secure, automated payments 💰Integrated Stripe for secure, automated payments 💰",
+        "Integrated Stripe for secure, automated payments 💰",
         "Deployed on AWS for performance and scalability ☁️",
       ],
-      resultImage: "assets/images/gallery/cha3.png",
+      resultImage: "assets/images/gallery/cha999.jpg",
       resultTitle: "Project Result",
       resultDescription:
         "🌟 Enabled a vibrant script marketplace that streamlined collaboration between creatives and decision-makers.",
@@ -215,12 +183,12 @@ function loadProjectDetails(projectId) {
     "money-monday": {
       title: "Money Monday platform",
       description:
-        "Designed the platform for Money Monday Dubai, a unique opportunity to promote your brand to Dubai’s top entrepreneurs, founders, and industry professionals. The platform allows businesses to showcase their projects at the exclusive event every Monday, helping them connect with influential figures in the finance and startup ecosystem. Through an intuitive interface and clean design, users can easily choose a monthly or yearly sponsorship plan that aligns with their brand’s goals, ensuring maximum exposure and impact.",
-      mainImage: "assets/images/portfolio/money-monday-logo.png",
+        "Designed the platform for Money Monday Dubai, a unique opportunity to promote your brand to Dubai's top entrepreneurs, founders, and industry professionals. The platform allows businesses to showcase their projects at the exclusive event every Monday, helping them connect with influential figures in the finance and startup ecosystem. Through an intuitive interface and clean design, users can easily choose a monthly or yearly sponsorship plan that aligns with their brand's goals, ensuring maximum exposure and impact.",
+      mainImage: "assets/images/portfolio/money-monday.jpg",
       challengeImage: "assets/images/gallery/cha77.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
-        "🌍 Businesses seeking visibility in Dubai’s elite startup and finance circles lacked a streamlined way to promote themselves at high-impact events. The process of securing sponsorships and showcasing offerings was often outdated, unclear, or inaccessible.",
+        "🌍 Businesses seeking visibility in Dubai's elite startup and finance circles lacked a streamlined way to promote themselves at high-impact events. The process of securing sponsorships and showcasing offerings was often outdated, unclear, or inaccessible.",
       challengePoints: [
         "No centralized platform to manage event sponsorship opportunities 🎤",
         "Difficult for brands to connect with the right audience of entrepreneurs and investors 📉",
@@ -239,7 +207,7 @@ function loadProjectDetails(projectId) {
       resultImage: "assets/images/gallery/cha99.jpg",
       resultTitle: "Project Result",
       resultDescription:
-        "🌟 Enabled brands to seamlessly position themselves in front of Dubai’s most influential figures—maximizing exposure and ROI.",
+        "🌟 Enabled brands to seamlessly position themselves in front of Dubai's most influential figures—maximizing exposure and ROI.",
       resultPoints: [
         "<strong>Streamlined sponsorship onboarding</strong> with improved UX and plan clarity 🚀",
         "<strong>Increased brand visibility</strong> through curated showcases at exclusive events 📣",
@@ -256,7 +224,12 @@ function loadProjectDetails(projectId) {
     project.title;
   document.querySelector(".project-details-head p").textContent =
     project.description;
-  document.querySelector(".pro-detailsthumb img").src = project.mainImage;
+
+  // Update main image with width and height
+  const mainImg = document.querySelector(".pro-detailsthumb img");
+  mainImg.src = project.mainImage;
+  mainImg.width = 1066;
+  mainImg.height = 533;
 
   // Update challenge section
   const challengeSection = document.querySelectorAll(".challenge-content")[0];
