@@ -45,39 +45,38 @@ function loadProjectDetails(projectId) {
         "<strong>Scalable deployment</strong> architecture ready for production traffic 🌍",
       ],
     },
-
-    onlySpell: {
-      title: "OnlySpell Website",
+    "money-monday": {
+      title: "Money Monday platform",
       description:
-        "I designed a Next.js-based platform that offers a magic-inspired branding experience for businesses, helping them craft their identity and attract the right audience through stunning visuals and deep audience analysis. Our goal is to create a masterpiece brand for each client that resonates with their audience and positions them as industry authorities. Whether you're already successful or striving for more, our team of design wizards blends creative strategies with target audience insights, unlocking your brand's potential and ensuring your business stands out and succeeds on a larger scale.",
-      mainImage: "assets/images/portfolio/onlyspell.jpg",
-      challengeImage: "assets/images/gallery/cha44.jpg",
+        "Designed the platform for Money Monday Dubai, a unique opportunity to promote your brand to Dubai's top entrepreneurs, founders, and industry professionals. The platform allows businesses to showcase their projects at the exclusive event every Monday, helping them connect with influential figures in the finance and startup ecosystem. Through an intuitive interface and clean design, users can easily choose a monthly or yearly sponsorship plan that aligns with their brand's goals, ensuring maximum exposure and impact.",
+      mainImage: "assets/images/portfolio/money-monday.jpg",
+      challengeImage: "assets/images/gallery/cha77.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
-        "🎭 Many businesses struggle to define a compelling brand identity that truly resonates with their audience. Generic visuals, unclear messaging, and lack of audience insight often lead to weak market positioning.",
+        "🌍 Businesses seeking visibility in Dubai's elite startup and finance circles lacked a streamlined way to promote themselves at high-impact events. The process of securing sponsorships and showcasing offerings was often outdated, unclear, or inaccessible.",
       challengePoints: [
-        "Brands lacked emotional connection and differentiation in a crowded market 🎯",
-        "Visuals and messaging were often disconnected from audience expectations 🎨",
-        "No centralized, intelligent system to align branding with strategy and audience psychology 🧠",
+        "No centralized platform to manage event sponsorship opportunities 🎤",
+        "Difficult for brands to connect with the right audience of entrepreneurs and investors 📉",
+        "Lack of clarity around pricing, exposure levels, and sponsorship plans 💼",
       ],
-      solutionImage: "assets/images/gallery/cha55.jpg",
+      solutionImage: "assets/images/gallery/cha88.jpg",
       solutionTitle: "The Solution",
       solutionDescription:
-        "✨ Developed a Next.js-powered platform that delivers a magic-inspired branding experience tailored to each business's audience and mission.",
+        "🛠️ Designed a modern, intuitive platform for Money Monday Dubai to streamline brand promotion and sponsorship access.",
       solutionPoints: [
-        "Crafted immersive UI/UX to capture users' imagination and trust 🧙‍♂️",
-        "Integrated audience analysis tools to guide brand voice, visuals, and positioning 📊",
-        "Enabled custom branding journeys that blend creativity with strategy 🎨🧩",
-        "Built with Next.js for speed, scalability, and seamless performance ⚡",
+        "Built a clean, responsive UI for easy navigation and engagement 🎨",
+        "Integrated a sponsorship plan system (monthly & yearly) tailored to business needs 📦",
+        "Highlighted project showcases and benefits to attract premium users 🌟",
+        "Optimized the platform to ensure smooth experience for high-profile event partners 🔧",
       ],
-      resultImage: "assets/images/gallery/cha66.jpg",
+      resultImage: "assets/images/gallery/cha99.jpg",
       resultTitle: "Project Result",
       resultDescription:
-        "🌟 Empowered businesses to transform into unforgettable brands that inspire, connect, and convert.",
+        "🌟 Enabled brands to seamlessly position themselves in front of Dubai's most influential figures—maximizing exposure and ROI.",
       resultPoints: [
-        "<strong>Increased audience engagement</strong> through emotionally resonant branding 💡",
-        "<strong>Boosted client satisfaction</strong> with tailored brand strategies that delivered real impact 📈",
-        "<strong>Positioned clients as industry authorities</strong> through standout visual identities and messaging 👑",
+        "<strong>Streamlined sponsorship onboarding</strong> with improved UX and plan clarity 🚀",
+        "<strong>Increased brand visibility</strong> through curated showcases at exclusive events 📣",
+        "<strong>Enhanced engagement</strong> with the startup and finance ecosystem in Dubai 🤝",
       ],
     },
     tktby: {
@@ -180,38 +179,38 @@ function loadProjectDetails(projectId) {
         "<strong>Scalable foundation</strong> for integrating additional analytics and investment tools 📊",
       ],
     },
-    "money-monday": {
-      title: "Money Monday platform",
+    onlySpell: {
+      title: "OnlySpell Website",
       description:
-        "Designed the platform for Money Monday Dubai, a unique opportunity to promote your brand to Dubai's top entrepreneurs, founders, and industry professionals. The platform allows businesses to showcase their projects at the exclusive event every Monday, helping them connect with influential figures in the finance and startup ecosystem. Through an intuitive interface and clean design, users can easily choose a monthly or yearly sponsorship plan that aligns with their brand's goals, ensuring maximum exposure and impact.",
-      mainImage: "assets/images/portfolio/money-monday.jpg",
-      challengeImage: "assets/images/gallery/cha77.jpg",
+        "I designed a Next.js-based platform that offers a magic-inspired branding experience for businesses, helping them craft their identity and attract the right audience through stunning visuals and deep audience analysis. Our goal is to create a masterpiece brand for each client that resonates with their audience and positions them as industry authorities. Whether you're already successful or striving for more, our team of design wizards blends creative strategies with target audience insights, unlocking your brand's potential and ensuring your business stands out and succeeds on a larger scale.",
+      mainImage: "assets/images/portfolio/onlyspell.jpg",
+      challengeImage: "assets/images/gallery/cha44.jpg",
       challengeTitle: "The Challenge",
       challengeDescription:
-        "🌍 Businesses seeking visibility in Dubai's elite startup and finance circles lacked a streamlined way to promote themselves at high-impact events. The process of securing sponsorships and showcasing offerings was often outdated, unclear, or inaccessible.",
+        "🎭 Many businesses struggle to define a compelling brand identity that truly resonates with their audience. Generic visuals, unclear messaging, and lack of audience insight often lead to weak market positioning.",
       challengePoints: [
-        "No centralized platform to manage event sponsorship opportunities 🎤",
-        "Difficult for brands to connect with the right audience of entrepreneurs and investors 📉",
-        "Lack of clarity around pricing, exposure levels, and sponsorship plans 💼",
+        "Brands lacked emotional connection and differentiation in a crowded market 🎯",
+        "Visuals and messaging were often disconnected from audience expectations 🎨",
+        "No centralized, intelligent system to align branding with strategy and audience psychology 🧠",
       ],
-      solutionImage: "assets/images/gallery/cha88.jpg",
+      solutionImage: "assets/images/gallery/cha55.jpg",
       solutionTitle: "The Solution",
       solutionDescription:
-        "🛠️ Designed a modern, intuitive platform for Money Monday Dubai to streamline brand promotion and sponsorship access.",
+        "✨ Developed a Next.js-powered platform that delivers a magic-inspired branding experience tailored to each business's audience and mission.",
       solutionPoints: [
-        "Built a clean, responsive UI for easy navigation and engagement 🎨",
-        "Integrated a sponsorship plan system (monthly & yearly) tailored to business needs 📦",
-        "Highlighted project showcases and benefits to attract premium users 🌟",
-        "Optimized the platform to ensure smooth experience for high-profile event partners 🔧",
+        "Crafted immersive UI/UX to capture users' imagination and trust 🧙‍♂️",
+        "Integrated audience analysis tools to guide brand voice, visuals, and positioning 📊",
+        "Enabled custom branding journeys that blend creativity with strategy 🎨🧩",
+        "Built with Next.js for speed, scalability, and seamless performance ⚡",
       ],
-      resultImage: "assets/images/gallery/cha99.jpg",
+      resultImage: "assets/images/gallery/cha66.jpg",
       resultTitle: "Project Result",
       resultDescription:
-        "🌟 Enabled brands to seamlessly position themselves in front of Dubai's most influential figures—maximizing exposure and ROI.",
+        "🌟 Empowered businesses to transform into unforgettable brands that inspire, connect, and convert.",
       resultPoints: [
-        "<strong>Streamlined sponsorship onboarding</strong> with improved UX and plan clarity 🚀",
-        "<strong>Increased brand visibility</strong> through curated showcases at exclusive events 📣",
-        "<strong>Enhanced engagement</strong> with the startup and finance ecosystem in Dubai 🤝",
+        "<strong>Increased audience engagement</strong> through emotionally resonant branding 💡",
+        "<strong>Boosted client satisfaction</strong> with tailored brand strategies that delivered real impact 📈",
+        "<strong>Positioned clients as industry authorities</strong> through standout visual identities and messaging 👑",
       ],
     },
   };
